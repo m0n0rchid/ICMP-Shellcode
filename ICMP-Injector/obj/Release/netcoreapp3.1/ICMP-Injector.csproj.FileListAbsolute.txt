@@ -1,0 +1,12 @@
+Y:\OSED\ICMP-Shellcode\ICMP-Injector\bin\Release\netcoreapp3.1\ICMP-Injector.exe
+Y:\OSED\ICMP-Shellcode\ICMP-Injector\bin\Release\netcoreapp3.1\ICMP-Injector.deps.json
+Y:\OSED\ICMP-Shellcode\ICMP-Injector\bin\Release\netcoreapp3.1\ICMP-Injector.runtimeconfig.json
+Y:\OSED\ICMP-Shellcode\ICMP-Injector\bin\Release\netcoreapp3.1\ICMP-Injector.runtimeconfig.dev.json
+Y:\OSED\ICMP-Shellcode\ICMP-Injector\bin\Release\netcoreapp3.1\ICMP-Injector.dll
+Y:\OSED\ICMP-Shellcode\ICMP-Injector\bin\Release\netcoreapp3.1\ICMP-Injector.pdb
+Y:\OSED\ICMP-Shellcode\ICMP-Injector\obj\Release\netcoreapp3.1\ICMP-Injector.AssemblyInfoInputs.cache
+Y:\OSED\ICMP-Shellcode\ICMP-Injector\obj\Release\netcoreapp3.1\ICMP-Injector.AssemblyInfo.cs
+Y:\OSED\ICMP-Shellcode\ICMP-Injector\obj\Release\netcoreapp3.1\ICMP-Injector.csproj.CoreCompileInputs.cache
+Y:\OSED\ICMP-Shellcode\ICMP-Injector\obj\Release\netcoreapp3.1\ICMP-Injector.dll
+Y:\OSED\ICMP-Shellcode\ICMP-Injector\obj\Release\netcoreapp3.1\ICMP-Injector.pdb
+Y:\OSED\ICMP-Shellcode\ICMP-Injector\obj\Release\netcoreapp3.1\ICMP-Injector.genruntimeconfig.cache
